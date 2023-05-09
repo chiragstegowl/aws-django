@@ -4,6 +4,7 @@
 *.DS_Store
 **/__pycache__
 **/.DS_Store
+static/*
 
 *.log
 *.pot
